@@ -1,0 +1,15 @@
+.sucess {
+    border: 1px solid #013220;
+    background-color: #90EE90;
+    color: #013220;
+}
+.error {
+    border: 1px solid #8B0000;
+    background-color: #ff4040;
+    color: #8B0000;
+}
+.warning {
+    border: 1px solid #caba02;
+    background-color: #ffff50;
+    color: #caba02;
+}

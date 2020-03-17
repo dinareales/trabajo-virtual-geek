@@ -1,0 +1,9 @@
+.button{
+    background-color: #008CBA;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+}
+.opacity{
+    opacity: 0.5;
+}
